@@ -4,3 +4,4 @@
 `dump_patcher.py` - python3, need functions.json. Start: ```dump_patcher.py dump.exe``` (requirements3.txt)
 
 P.S. the code do not judge strictly wrote the patient.
+P.S.S. dont implementation LEA reg, [iat], wait fix
